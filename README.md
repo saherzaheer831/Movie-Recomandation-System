@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+movie-recommendation-system
 
 A Machine Learning project that recommends similar movies using **Content-Based Filtering** and predicts movie blockbuster success using classification algorithms.
 
